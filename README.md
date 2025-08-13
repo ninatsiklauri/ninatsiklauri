@@ -5,7 +5,7 @@ I'm a Frontend Developer passionate about creating engaging web experiences. My 
 
 ## 🛠️ Tech Stack
 - **Languages:** JavaScript, TypeScript
-- **Frontend:** React.js, Next.js, Canvas, Pixi.js, ant design 
+- **Frontend:** React.js, Next.js, Canvas, Pixi.js
 - **Styling:** CSS, SCSS, Styled Components, Tailwind CSS, bootstrap
 - **Version Control:** Git
 - **Tools:** VS Code, Figma
@@ -19,7 +19,7 @@ I'm a Frontend Developer passionate about creating engaging web experiences. My 
 - Enhancing UI/UX design capabilities
 
 ## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/nina-tsiklauri)
+- [LinkedIn]([https://www.linkedin.com/in/nina-tsiklauri](https://www.linkedin.com/in/nina-tsiklauri-ba3725365))
 - [GitHub](https://github.com/ninatsiklauri)
 
 ## 💼 Portfolio
