@@ -19,7 +19,7 @@ I'm a Frontend Developer passionate about creating engaging web experiences. My 
 - Enhancing UI/UX design capabilities
 
 ## 📫 How to Reach Me
-- [LinkedIn]([https://www.linkedin.com/in/nina-tsiklauri](https://www.linkedin.com/in/nina-tsiklauri-ba3725365))
+- [LinkedIn](https://www.linkedin.com/in/nina-tsiklauri-ba3725365)
 - [GitHub](https://github.com/ninatsiklauri)
 
 ## 💼 Portfolio
