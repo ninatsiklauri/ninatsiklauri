@@ -5,7 +5,8 @@ I'm a Frontend Developer passionate about creating engaging web experiences. My 
 
 ## 🛠️ Tech Stack
 - **Languages:** JavaScript, Typescript, Go
-- **Frontend:** React.js, Next.js, Canvas, Pixi.js, Node.js
+- **Frontend:** React.js, Next.js, Canvas, Pixi.js
+- **Backend:** Node.js
 - **Styling:** CSS, SCSS, Styled Components, Tailwind CSS, bootstrap
 - **Version Control:** Git
 - **Tools:** VS Code, Figma
